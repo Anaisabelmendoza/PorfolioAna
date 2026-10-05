@@ -1,0 +1,88 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "role": "Aspiring Web Developer",
+    "location": "City, Country",
+    "email": "your.email@example.com",
+    "phone": "",
+    "github": "your-github",
+    "linkedin": "your-linkedin",
+    "website": ""
+  },
+  "summary": {
+    "summary": "A brief professional summary about yourself, your goals, and what you bring to the table. Aim for 4-6 lines."
+  },
+  "experience": [
+    {
+      "id": "exp1",
+      "position": "Position Title",
+      "company": "Company Name",
+      "dates": "Month Year - Month Year",
+      "description": [
+        "Bullet point describing your responsibilities and achievements."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu1",
+      "degree": "Degree or Certificate Name",
+      "institution": "Institution Name",
+      "dates": "Year - Year"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj1",
+      "name": "Project Name",
+      "description": "A short description of your project.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "TailwindCSS"
+      ],
+      "repoUrl": "",
+      "demoUrl": "",
+      "bullets": [
+        "Feature or contribution you made to the project."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill1",
+      "category": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": "skill2",
+      "category": "Backend",
+      "skills": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "id": "skill3",
+      "category": "Databases",
+      "skills": [
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "id": "skill4",
+      "category": "DevTools",
+      "skills": [
+        "Git",
+        "Docker",
+        "Webpack"
+      ]
+    }
+  ]
+}
